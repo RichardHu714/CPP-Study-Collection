@@ -1,5 +1,5 @@
 # CPP-Study-Collection
-===
+
 正确的打开方式
 ---
 1.  注册一个账号
